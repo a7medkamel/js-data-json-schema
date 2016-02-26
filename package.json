@@ -1,0 +1,19 @@
+{
+  "name": "js-data-json-schema",
+  "version": "0.1.0",
+  "description": "Create JS-Data resources from JSON Schemas",
+  "main": "js-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingAds/js-data-json-schema.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingAds/js-data-json-schema/issues"
+  },
+  "homepage": "https://github.com/BingAds/js-data-json-schema#readme"
+}
